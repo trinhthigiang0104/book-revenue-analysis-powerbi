@@ -60,15 +60,16 @@ The dashboard is designed for **business users**, enabling quick exploration and
 - Top authors and publishers dominate overall sales performance
 
 ---
-
 ## 📁 Repository Structure
+
+```text
+book-revenue-analysis-powerbi/
 ├── Bookshop_Revenue_Dashboard.pbix
 ├── images/
-│ ├── overview.png
-│ ├── Revenue by Authors and Publishers.png
-│ └── Revenue by Ratings.png
+│   ├── Overview.png
+│   ├── Revenue_by_Authors_and_Publishers.png
+│   └── Revenue_by_Ratings.png
 └── README.md
-
 
 ---
 
