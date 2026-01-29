@@ -23,13 +23,13 @@ The dashboard is designed for **business users**, enabling quick exploration and
 ## 📊 Dashboard Preview
 
 ### 🔹 Overall Performance
-images/Overview.png
+![Overall Performance](images/Overview.png)
 
 ### 🔹 Revenue by Authors and Publishers
-![Revenue by Authors and Publishers](images/Revenue by Authors andPublishers.png)
+![Revenue by Authors and Publishers](images/Revenue_by_Authors_and_Publishers.png)
 
 ### 🔹 Revenue by Ratings
-![Revenue by Ratings](images/Revenue by Ratings.png)
+![Revenue by Ratings](images/Revenue_by_Ratings.png)
 
 ---
 
